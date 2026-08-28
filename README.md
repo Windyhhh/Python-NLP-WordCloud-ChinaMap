@@ -72,6 +72,14 @@ Python-NLP-WordCloud-ChinaMap/
 
 ---
 
+
+## Results
+
+<div align="center">
+  <img src="results/china_wordcloud.png" alt="China map word cloud" width="70%"/>
+</div>
+
+---
 ## License
 
 MIT — free to use, modify and distribute.
