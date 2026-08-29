@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🗺️ Python-NLP-WordCloud-ChinaMap
+# 中国地图词云 | Python-NLP-WordCloud-ChinaMap
 
 ### Crawler → NLP → China-map word cloud, end to end.
 
